@@ -15,7 +15,7 @@ Master some basic skill of progammer through some exercises
 
 ## Python
 ------
-#### 1.Homework1(学习利用Python打开文件，写文件，字符串简单处理)：          
+#### 1.Homework1(学习利用Python打开文件，写文件，字符串简单处理)：             
       　1.读取data文件夹下的txt文档    
       　2.获取每个txt文档的文档名'-'后面的数字与该文档里的数字相加    
       　3.把所有txt文档经2处理后的数字按行写入homework_1.py同目录下的result.txt文档   
