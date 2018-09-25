@@ -11,6 +11,8 @@ file_generator = (file for file in os.listdir(data_path))  # 文件名生成器
 sum_list = []
 
 # 清空result.txt
+# with open有两个注意的：1. as f 这个f最好也取有意义的，不然几个open都是f会造成错误
+# 2.最好把循环放在open里面，而不是open放在循环里面，这样就不会涉及频繁打开文件这个操作
 with open(result_path,'w') as f1:
     f1.truncate()
 for i in file_generator:
