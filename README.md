@@ -22,6 +22,6 @@ Master some basic skill of progammer through some exercises
 #### 2.Homework2(学习利用Python的列表生成器与生成器，改写Homework1)：          
       　1.学习列表生成器与生成器的原理        
       　2.把生成器与列表生成器分布用在Homework1的实现过程中      
-#### 3.Homework3(学习利用Python的yield，改写Homework1)：          
-      　1.学习yield原理        
-      　2.把yield用在Homework1的实现过程中（替代生成器的next方法） 
+#### 3.Homework3(学习利用Python的面对对象编程，改写Homework1)：          
+      　1.学习类的构造和使用（初始化，函数）        
+      　2.把类的思想用在Homework1的实现过程中 
